@@ -1,0 +1,76 @@
+body{
+    
+    height: 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffff;
+}
+.products{
+    text-align: center;
+    color: #ffac81;
+    width: 100%;
+    max-width: 540px;
+    background:whitesmoke;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 10px;
+    box-shadow:  2px 2px 2px 2px black;
+}
+.products{
+    text-align: center;
+    color:peru;
+    font-size: 80px;
+}
+
+#kitchen-header {
+    background-color: black;
+    color: white;
+    border: none;
+    outline: none;
+    width: 80px;
+    text-align: center;
+}
+
+
+
+.kitchen-items-list li{
+    align-items: center;
+    background-color :#c5e1e6;
+    padding: 10px 15px;
+    margin: 4px 0;  
+    color:black;
+    list-style: none;
+}
+#kitchen-input{
+    background-color:azure;
+    margin: 30px;
+    height: 40px;
+    width: 150px;
+    margin-left: 50px;
+    color: black;
+    border-radius: 5px;
+    align-items: center;
+    box-shadow: 0px 4px 4px 4px black;
+}
+
+#add-btn{
+    height: 40px;
+    width: 90px;
+    background-color: azure;
+    color: black;
+    font-size: large;
+    margin-right: 70px;
+    border-radius: 9px;
+    border-color: white;
+    box-shadow: 2px 2px 2px 2px black;
+}
+#btn{
+     background-color: azure;
+     color: black;
+     border-radius: 9px;
+     width: 100px;
+     height: 36px;
+     align-items: end;
+}
+
